@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}"; 
+/* Center-align all text on the page */
+body {
+  text-align: center;
+}
+
+/* Center-align specific elements if needed */
+h1, h2, h3, p {
+  text-align: center;
+}
